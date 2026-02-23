@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: python-app
+  name: python-website
   labels:
-    app: python-app
+    app: python-website
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: python-app
+      app: python-website
   template:
     metadata:
       labels:
-        app: python-app
+        app: python-website
     spec:
       containers:
-      - name: python-app
+      - name: python-website
         image: ramesh4500/my-web-app:v1
         ports:
         - containerPort: 8000
