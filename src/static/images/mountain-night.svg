@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Mountain night scene">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#09142d"/>
+      <stop offset="100%" stop-color="#1a2744"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#night)"/>
+  <circle cx="950" cy="140" r="58" fill="#f2f6ff" opacity="0.92"/>
+  <circle cx="170" cy="120" r="2.5" fill="#f8fbff"/>
+  <circle cx="300" cy="90" r="2" fill="#f8fbff"/>
+  <circle cx="470" cy="150" r="2.2" fill="#f8fbff"/>
+  <circle cx="670" cy="100" r="1.8" fill="#f8fbff"/>
+  <circle cx="780" cy="160" r="2.4" fill="#f8fbff"/>
+  <circle cx="1040" cy="90" r="1.9" fill="#f8fbff"/>
+  <path d="M0 510 L210 320 L390 510 Z" fill="#1d2f4b"/>
+  <path d="M250 510 L520 250 L820 510 Z" fill="#233a5b"/>
+  <path d="M620 510 L910 300 L1200 510 Z" fill="#1c3554"/>
+  <path d="M0 510 H1200 V800 H0 Z" fill="#122338"/>
+  <path d="M0 620 C210 590 390 650 590 620 C790 590 980 660 1200 620 V800 H0 Z" fill="#1a2f4a" opacity="0.65"/>
+</svg>

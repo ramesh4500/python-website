@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Mountain ridge with clouds">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9fd2ff"/>
+      <stop offset="100%" stop-color="#dff1ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g1)"/>
+  <ellipse cx="260" cy="170" rx="120" ry="40" fill="#ffffff" opacity="0.8"/>
+  <ellipse cx="420" cy="150" rx="95" ry="30" fill="#ffffff" opacity="0.75"/>
+  <ellipse cx="840" cy="180" rx="130" ry="42" fill="#ffffff" opacity="0.7"/>
+  <path d="M0 510 L220 300 L420 510 Z" fill="#33506b"/>
+  <path d="M260 510 L520 230 L780 510 Z" fill="#3e6282"/>
+  <path d="M600 510 L900 280 L1200 510 Z" fill="#2f5474"/>
+  <path d="M0 510 H1200 V800 H0 Z" fill="#1e3042"/>
+  <path d="M0 610 C140 570 320 650 500 620 C680 590 900 660 1200 610 V800 H0 Z" fill="#27465f"/>
+</svg>

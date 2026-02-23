@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Mountain dawn scene">
+  <defs>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffbb88"/>
+      <stop offset="55%" stop-color="#ffd9a8"/>
+      <stop offset="100%" stop-color="#ffeccf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#dawn)"/>
+  <circle cx="620" cy="210" r="95" fill="#ffd176" opacity="0.95"/>
+  <path d="M0 470 L180 340 L330 470 Z" fill="#805a49"/>
+  <path d="M170 470 L470 250 L780 470 Z" fill="#976957"/>
+  <path d="M560 470 L860 300 L1200 470 Z" fill="#885f4f"/>
+  <path d="M0 470 H1200 V800 H0 Z" fill="#5a3f35"/>
+  <path d="M0 560 C210 520 380 600 560 560 C740 520 950 590 1200 550 V800 H0 Z" fill="#6e4a3c" opacity="0.75"/>
+</svg>
