@@ -7,7 +7,7 @@ spec:
   ingressClassName: nginx
   rules:
 #  - host: "ramesh-webapp.test.com"
-    http:
+  - http:
       paths:
       - path: /
         pathType: Prefix
