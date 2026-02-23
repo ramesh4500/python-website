@@ -6,8 +6,8 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-#  - host: "ramesh-webapp.test.com"
-  - http:
+  - host: "ramesh-webapp.test.com"
+    http:
       paths:
       - path: /
         pathType: Prefix
